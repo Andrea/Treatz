@@ -34,7 +34,11 @@
       "dependencies": {
         "NETStandard.Library": "1.6.0"
       }
-    }
+    },
+    "net452" : {},
+  },
+  "runtimes":{
+    "win-x86":{}
   },
   "tools": {
     "dotnet-compile-fsc": {

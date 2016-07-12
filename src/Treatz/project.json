@@ -39,7 +39,11 @@
         "Microsoft.FSharp.Core.netcore": "1.0.0-alpha-*"
       },
       "imports": "dnxcore50"
-    }
+    },
+    "net452" : {},
+  },
+  "runtimes":{
+    "win-x86": { }, 
   },
   "tools": {
     "dotnet-compile-fsc": {
